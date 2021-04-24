@@ -3,7 +3,3 @@
 <p align="center">
 This repository contains all kinds of graphic assets for our GitHub repositories.
 </p>
-
-## License
-
-[MIT](LICENSE)
