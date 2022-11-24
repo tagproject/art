@@ -18,4 +18,5 @@ This repository contains all kinds of graphic assets for our GitHub repositories
 - [`@tagproject/ts-package-shared-config`](https://www.npmjs.com/package/@tagproject/ts-package-shared-config)
 - [`@tagproject/ts-library-shared-config`](https://www.npmjs.com/package/@tagproject/ts-library-shared-config)
 
+
 ### Kubernetes manifests
